@@ -11,4 +11,3 @@ modified: 2017-03-03
 ## Upcoming Sessions:
 + [Spring Break](springbreak.md) 
 
-
