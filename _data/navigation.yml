@@ -1,0 +1,6 @@
+# Menu navigation links
+- title: Forest School 
+  url: /forest/ 
+  
+- title: RSS
+  url: /feed.xml
