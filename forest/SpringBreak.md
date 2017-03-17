@@ -5,10 +5,9 @@ comments: false
 image: 
  feature: forest4.jpg
 modified: 2017-03-03
-
 ---
-## Spring break will be taking place at Great Bois Wood. 
 
+## Spring break will be taking place at Great Bois Wood. 
 
 Please reserve your place by purchasing here: 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
